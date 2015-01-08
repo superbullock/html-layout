@@ -5,16 +5,17 @@ html, body {
 }
 
 header {
-    height: 15%;
+    height: 14%;
     background-color: hsla(0,0%,85%,1);
+    box-sizing: border-box;
+    padding: 20px 0 0 20px;
 }
 
 .profilePic {
     width: 10%;
     height: 80%;
-    float: left;
     background-color: hsla(213,76%,57%,1);
-    margin: 10px 10px 10px 20px;
+
 }
 
 body div {
@@ -22,19 +23,20 @@ body div {
 }
 
 .jumbotron {
-    height: 25%;
+    height: 30%;
     background-color: white;
+    box-sizing: border-box;
+    padding: 40px 40px 40px 40px;
 }
 
 p {
     text-align: justify;
-    margin: 5%;
-    font-family: sans-serif;
+    font-family: Ariel, sans-serif;
     font-size: 20px;
 }
 
 .container {
-    height: 15%;
+    height: 14%;
     clear: both;
 }
 

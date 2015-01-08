@@ -30,5 +30,6 @@ div{
     height: 25%;
     width: 100%;
     background: url(http://www.prevention.com/sites/default/files/imagecache/slideshow_display/dog-dogue-de-bordeaux-puppy-410x290.jpg) no-repeat;
+    background-size: 100% 100%;
 }
 
